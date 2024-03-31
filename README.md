@@ -35,8 +35,9 @@ Hi There! I'm Shady Khalifa
 <h3 align="center">
  <a href="https://www.linkedin.com/in/shady-khalifa-41b6b6280/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
-   <a href="https://t.me/shady7kh" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Khalifa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-
+ </a>
+ <a  href="https://t.me/shady7kh">
+   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"/>
  </a>
 </h3>
 
