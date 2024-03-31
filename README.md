@@ -27,7 +27,7 @@ Hi There! I'm Shady Khalifa
 
 <p align="center">
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=visualstudio,vscode,dotnet,cs,html,css,bootstrap,github,postgres,mongo,redis,docker,rabbitmq,postman"/>
+    <img src="https://skillicons.dev/icons?&theme=light&i=git,visualstudio,vscode,dotnet,cs,html,css,bootstrap,github,c#,ts,nodejs,rabbitmq,postman"/>
     
   </a>
 </p>
