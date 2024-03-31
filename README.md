@@ -18,7 +18,6 @@ Hi There! I'm Shady Khalifa
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/shady-khalifa-413726211" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Khalifa-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/shady7kh" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Khalifa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### The Languages, Frameworks & Tools I am proficient about
@@ -29,6 +28,13 @@ Hi There! I'm Shady Khalifa
     
   </a>
 </p>
- <h3 align="center">
+### Contact & Social
+<h3 align="center">
+ <a href="https://www.linkedin.com/in/shady-khalifa-41b6b6280/">
    <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+   <a href="https://t.me/shady7kh" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Khalifa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+
+ </a>
 </h3>
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
+
