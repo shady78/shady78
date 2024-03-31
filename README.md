@@ -5,6 +5,11 @@
 Hi There! I'm Shady Khalifa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<h3 align="center">
+ 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Development  )](https://git.io/typing-svg)
+
+</h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
@@ -16,9 +21,7 @@ Hi There! I'm Shady Khalifa
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
-### Connect with Me :
 
-<a href="https://t.me/shady7kh" target="_blank"><img src="https://img.shields.io/badge/-Shady%20Khalifa-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 ### The Languages, Frameworks & Tools I am proficient about
 
@@ -36,5 +39,6 @@ Hi There! I'm Shady Khalifa
 
  </a>
 </h3>
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
 
