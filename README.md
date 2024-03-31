@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
 <h3 align="center">
 Hi There! I'm Shady Khalifa
