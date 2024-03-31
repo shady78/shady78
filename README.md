@@ -23,7 +23,7 @@ Hi There! I'm Shady Khalifa
 
 
 
-### The Languages, Frameworks & Tools I am proficient about
+<h3> The Languages, Frameworks & Tools I am proficient about</h3>
 
 <p align="center">
 <a href="https://skillicons.dev">
@@ -31,13 +31,13 @@ Hi There! I'm Shady Khalifa
     
   </a>
 </p>
-### Contact & Social
+<h3>Contact & Social</h3>
 <h3 align="center">
  <a href="https://www.linkedin.com/in/shady-khalifa-41b6b6280/">
-   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+   <img height="94" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
  <a  href="https://t.me/shady7kh">
-   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg"/>
+   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
  </a>
 </h3>
 
