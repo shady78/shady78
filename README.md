@@ -36,9 +36,13 @@ Hi There! I'm Shady Khalifa
  <a href="https://www.linkedin.com/in/shady-khalifa-41b6b6280/">
    <img height="94" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
- <a  href="https://t.me/shady7kh">
+ <a href="https://mail.google.com/mail/u/1/shadykhalifa.dotnetdev@gmail.com">
+   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>
+ </a>
+  <a  href="https://t.me/shady7kh">
    <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
  </a>
+  
 </h3>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
