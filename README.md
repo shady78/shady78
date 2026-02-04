@@ -1,49 +1,75 @@
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=header)
 
 <h3 align="center">
-Hi There! I'm Shady Khalifa
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+Hi, I'm Shady Khalifa 👋
 </h3>
+
 <h3 align="center">
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Edu+NSW+ACT+Foundation&weight=500&size=30&pause=1000&color=F70404&width=435&lines=FullStack+.Net+Development  )](https://git.io/typing-svg)
-
+Backend .NET Developer | ASP.NET Core | POS & ERP Systems
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=.Net%20-%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
-- 🏢 I'm a Backend Developer .
-- 👨‍💻 I'm learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with C# , MVC, and API , Angular, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-
-
-
-
-<h3> The Languages, Frameworks & Tools I am proficient about</h3>
-
-<p align="center">
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?&theme=light&i=git,visualstudio,vscode,dotnet,cs,html,css,bootstrap,github,c#,ts,nodejs,rabbitmq,postman"/>
-    
-  </a>
+Experienced Backend Developer specializing in building scalable business systems using the Microsoft technology stack.
 </p>
-<h3>Contact & Social</h3>
-<h3 align="center">
+
+---
+
+## 👨‍💻 About Me
+- Backend .NET Developer with hands-on experience in **POS & ERP systems**
+- Specialized in **ASP.NET Core (.NET 8)** and backend system architecture
+- Experienced in building secure, scalable **RESTful APIs**
+- Strong understanding of **Database Design**, **DDD concepts**, and **Clean Architecture**
+- Worked with **CI/CD pipelines** and real production deployments
+
+---
+
+## 🏗️ What I Work On
+- POS & ERP Systems
+- Inventory & Warehouse Management
+- Accounting & Financial Transactions
+- Role-Based Access Control (RBAC)
+- System Integrations & Compliance APIs
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+- ASP.NET Core (.NET 8)
+- C#
+- EF Core, Dapper
+- REST APIs
+- Identity & Authentication
+
+### Databases
+- SQL Server
+- PostgreSQL
+- Redis
+
+### Architecture & Practices
+- Clean Architecture
+- Domain-Driven Design (DDD)
+- Database-First & Code-First approaches
+
+### DevOps & Tools
+- Git & GitHub
+- GitHub Actions (CI/CD)
+- Docker (Basics)
+- Postman, Swagger
+
+### Frontend (Integration Level)
+- Angular
+
+---
+
+## 🔗 Connect With Me
+<p align="center">
  <a href="https://www.linkedin.com/in/shady-khalifa-41b6b6280/">
-   <img height="94" width="94" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+   <img height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
  </a>
- <a href="https://mail.google.com/mail/u/1/shadykhalifa.dotnetdev@gmail.com">
-   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>
+ <a href="mailto:shadykhalifa.dotnetdev@gmail.com">
+   <img width="60" height="60" src="https://img.icons8.com/3d-fluency/94/gmail.png"/>
  </a>
-  <a  href="https://t.me/shady7kh">
-   <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
- </a>
-  
-</h3>
+</p>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
-
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
