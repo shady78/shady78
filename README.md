@@ -5,7 +5,7 @@ Hi, I'm Shady Khalifa 👋
 </h3>
 
 <h3 align="center">
-Mid Senior Backend .NET Developer | ASP.NET Core | POS & ERP Systems
+Senior Backend .NET Developer | ASP.NET Core | POS & ERP Systems
 </h3>
 
 <p align="center">
